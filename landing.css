@@ -9,6 +9,7 @@
     grid-column: 1/5;
     text-align: center;
     background: linear-gradient(#eb6cd2, white);
+    padding-top: 200px;
 }
 .content {
     grid-row: 2;
